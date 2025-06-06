@@ -46,6 +46,7 @@ streamlit run app.py
 ```
 
 ## Model Inputs
+```
 Feature	Description
 Geography	Country/Region (one-hot encoded)
 Gender	Male/Female (label encoded)
@@ -57,6 +58,7 @@ Tenure	Years with the bank
 Num of Products	Number of products owned
 Has Credit Card	Whether the customer has a credit card
 Is Active Member	Whether the customer is active
+```
 
 🧠 Output
 Churn Probability (e.g., 0.76)
