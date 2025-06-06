@@ -22,6 +22,13 @@ Scikit-learn	Preprocessing (Scaling, Label Encoding, One-Hot Encoding)
 Pandas / NumPy	Data handling
 Streamlit	Web app interface
 Pickle	Store encoders and scaler
+| Tool                   | Purpose                                                   |
+| ---------------------- | --------------------------------------------------------- |
+| `TensorFlow / Keras`   | Build and train the neural network                        |
+| `Scikit-learn	`        | Preprocessing (Scaling, Label Encoding, One-Hot Encoding) |
+| `Pandas / NumPy`       | Data handling                                             |
+| `Streamlit`            | Web app interface                                         |
+| `Pickle`               | Store encoders and scaler                                 |
 
 🚀 How to Run the App
 1. Clone the repository
