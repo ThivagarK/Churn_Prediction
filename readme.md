@@ -60,14 +60,14 @@ Has Credit Card	Whether the customer has a credit card
 Is Active Member	Whether the customer is active
 ```
 
-🧠 Output
+## 🧠 Output
 Churn Probability (e.g., 0.76)
 
 Prediction Message:
 The customer is likely to churn.
 The customer is not likely to churn.
 
-📌 Future Improvements
+## 📌 Future Improvements
 1. Add visual analytics (charts, SHAP explainability)
 
 2. Support CSV uploads for bulk predictions
