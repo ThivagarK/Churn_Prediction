@@ -16,12 +16,6 @@ Churn prediction helps banks and financial institutions identify customers who a
 ☁️ Easily deployable to Streamlit Cloud
 
 ## Tech Stack
-Tool	Purpose
-TensorFlow / Keras	Build and train the neural network
-Scikit-learn	Preprocessing (Scaling, Label Encoding, One-Hot Encoding)
-Pandas / NumPy	Data handling
-Streamlit	Web app interface
-Pickle	Store encoders and scaler
 | Tool                   | Purpose                                                   |
 | ---------------------- | --------------------------------------------------------- |
 | `TensorFlow / Keras`   | Build and train the neural network                        |
